@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat" alt="Status" />
 </p>
 
-I am a **Software Engineer** with hands-on experience in maintaining and enhancing enterprise systems using **C#/.NET** and **Java**[cite: 1]. Passionate about backend development, production issue investigation, and building robust full-stack applications[cite: 1].
+I am a **Software Engineer** with hands-on experience in maintaining and enhancing enterprise systems using **C#/.NET** and **Java**. Passionate about backend development, production issue investigation, and building robust full-stack applications.
 
 ---
 
@@ -39,17 +39,17 @@ I am a **Software Engineer** with hands-on experience in maintaining and enhanci
 ### 🚀 Featured Projects
 
 #### 1. [SPLYT - Bill Splitting Mobile Application](https://github.com/jsssn03)
-- **Tech Stack:** Spring Boot, Flutter, PostgreSQL, Google ML Kit OCR[cite: 1]
+- **Tech Stack:** Spring Boot, Flutter, PostgreSQL, Google ML Kit OCR.
 - **Highlights:** 
-  - Developed an itemized bill-splitting and SST calculation backend[cite: 1].
-  - Implemented a **greedy net-settlement algorithm** in Java to compute and simplify users' net balances[cite: 1].
-  - Integrated Google ML Kit OCR to extract text from physical receipts and DuitNow QR codes for instant payments[cite: 1].
+  - Developed an itemized bill-splitting and SST calculation backend.
+  - Implemented a **greedy net-settlement algorithm** in Java to compute and simplify users' net balances.
+  - Integrated Google ML Kit OCR to extract text from physical receipts and DuitNow QR codes for instant payments.
 
 #### 2. [SWIFTPAY - Mobile Wallet Application](https://github.com/jsssn03)
-- **Tech Stack:** Flutter, Supabase[cite: 1]
+- **Tech Stack:** Flutter, Supabase.
 - **Highlights:**
-  - Built an eKYC-style user onboarding flow supporting OTP verification and MyKad OCR recognition[cite: 1].
-  - Implemented a **rule-based user credit assessment** feature for automated spending pattern and risk alerts[cite: 1].
+  - Built an eKYC-style user onboarding flow supporting OTP verification and MyKad OCR recognition.
+  - Implemented a **rule-based user credit assessment** feature for automated spending pattern and risk alerts.
 
 ---
 
