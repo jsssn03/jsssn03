@@ -38,15 +38,15 @@ I am a **Software Engineer** with hands-on experience in maintaining and enhanci
 
 ### 🚀 Featured Projects
 
-#### 1. [SPLYT - Bill Splitting Mobile Application]([https://github.com/jsssn03/Splyt]
-- **Tech Stack:** Spring Boot, Flutter, PostgreSQL, Google ML Kit OCR.
+#### 1. [SPLYT - Bill Splitting Mobile Application](https://github.com/jsssn03/Splyt)
+- **Tech Stack:** Spring Boot, Flutter, PostgreSQL, Google ML Kit OCR
 - **Highlights:** 
   - Developed an itemized bill-splitting and SST calculation backend.
   - Implemented a **greedy net-settlement algorithm** in Java to compute and simplify users' net balances.
   - Integrated Google ML Kit OCR to extract text from physical receipts and DuitNow QR codes for instant payments.
 
-#### 2. [SWIFTPAY - Mobile Wallet Application](https://github.com/jsssn03)
-- **Tech Stack:** Flutter, Supabase.
+#### 2. [SWIFTPAY - Mobile Wallet Application](https://github.com/jsssn03/swiftpay)
+- **Tech Stack:** Flutter, Supabase
 - **Highlights:**
   - Built an eKYC-style user onboarding flow supporting OTP verification and MyKad OCR recognition.
   - Implemented a **rule-based user credit assessment** feature for automated spending pattern and risk alerts.
