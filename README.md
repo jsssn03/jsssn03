@@ -38,7 +38,7 @@ I am a **Software Engineer** with hands-on experience in maintaining and enhanci
 
 ### 🚀 Featured Projects
 
-#### 1. [SPLYT - Bill Splitting Mobile Application](https://github.com/jsssn03)
+#### 1. [SPLYT - Bill Splitting Mobile Application]([https://github.com/jsssn03](https://github.com/jsssn03/Splyt))
 - **Tech Stack:** Spring Boot, Flutter, PostgreSQL, Google ML Kit OCR.
 - **Highlights:** 
   - Developed an itemized bill-splitting and SST calculation backend.
