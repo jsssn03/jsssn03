@@ -56,7 +56,9 @@ I am a **Software Engineer** with hands-on experience in maintaining and enhanci
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsssn03&show_icons=true&theme=tokyonight&hide_border=true" alt="Jia Soon's GitHub Stats" />
+  <img src="https://img.shields.io/badge/GitHub-jsssn03-blue?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Main Focus-Backend & Enterprise-orange?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Open to Work-success?style=for-the-badge" alt="Status" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsssn03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
